@@ -207,7 +207,6 @@ import time
 import threading
 GPIO.setmode(GPIO.BCM)
 
-# ロータリーエンコーダ
 class rotaly:
     def __init__(self, x, y, z):
         self.x = x

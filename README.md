@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-</head>
 こんにちは.
 前日,寝たプログラム班は僕です.<br>
 前々日は,某黄色の鳥類の球団のシャンパンファイトを見ていて作業しなかったのも僕です.<br>
